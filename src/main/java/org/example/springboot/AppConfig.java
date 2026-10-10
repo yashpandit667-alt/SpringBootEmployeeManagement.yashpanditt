@@ -9,7 +9,8 @@ public class AppConfig {
     @Bean
     public Employee employee() {
 
-        Employee employee = new Employee("Yash Pandit", 30000);
+        Employee employee = new Employee("Yash Pandit", 30060);
         return employee;
     }
 }
+
